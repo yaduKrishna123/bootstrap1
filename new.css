@@ -1,0 +1,131 @@
+
+.bgimage1{
+    width: 100%;
+    /* background-attachment: fixed; */
+    
+    height:800px;
+    
+    margin-left: 7px;
+    margin-top:-20px
+}
+    
+
+.heading{
+    color: rgb(240, 33, 33);
+    margin-top: -20%;
+    text-align: center;
+    margin-left: 60%;
+   position: inherit;
+    font-family: 'Bebas Neue', cursive;
+}
+.heading1{
+    color: white;
+    margin-top: 110px;
+    text-align: center;
+    margin-left: 898px;
+    font-family: 'Bebas Neue', cursive;
+}
+.row{
+    float: left;
+}
+/* .card{
+    
+    justify-content: center;
+    align-items: center;
+    float: right;
+} */
+.navbar{
+    position: fixed;
+}
+.row{
+ 
+    float: inline-start;
+    
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Oleo+Script&display=swap');
+.cinema{
+    width: 100%;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 50%;
+}
+.nav-link{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 200px;
+}
+.moviehub{
+    margin-left: 100%;
+    font-weight: bold;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/* .banner{
+    width: 100%;
+    margin-left: 10%;
+    
+    height: 600px;
+    
+} */
+.row{
+    float:left;
+    
+}
+.bgimage{
+    position:inherit;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    
+}
+.slide{
+    margin-top: 3%;
+    /* background-color: aqua;
+    width: 100%;
+    height: 600px; */
+   
+    
+
+  
+    
+  
+}
+.heading{
+    
+        
+}
+.video iframe{
+    width: 45%;
+    height: 300px;
+   padding: 20px;
+}
+.card{
+    text-align: center;
+  
+}
+.heading3{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+@media screen and (max-width:1200px) {
+
+  .video iframe{
+        width: 100%;
+        height: 400px;
+        margin: 10px;
+    }
+}
+@media screen and(max-width:680px)
+{
+
+    .card{
+        width: 100%;
+        margin: 30%;
+        
+    }
+    
+}
